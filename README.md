@@ -9,3 +9,7 @@
 
 https://user-images.githubusercontent.com/87259393/179644510-884836bc-0596-488c-bc91-a69fe7c6517c.mp4
 
+## Laporan 
+
+[FINAL PROJECT KOMUNIKASI DATA KELOMPOK 5.pdf](https://github.com/bagussatoto/Komunikasi-Data-Smart-Lamp/files/9136747/FINAL.PROJECT.KOMUNIKASI.DATA.KELOMPOK.5.pdf)
+
