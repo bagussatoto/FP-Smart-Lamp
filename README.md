@@ -26,13 +26,13 @@
 | **Nama**                            | **NIM**     | 
 |-------------------------------------|-------------|
 |  Kalwabed Rizki                     |  21.11.4078 |
-|  Rastra Ardiansyah Pora             |  21.11.4055 |
+|  Rastra Ardiansyah Pora             |  21.11.4077 |
 |  Bagus Budi Satoto                  |  21.11.4076 |
-|  Andreas Adrian                     |  21.11.4095 |
-|  Rizki Gunawan                      |  21.11.4076 |
-|  Novelino Arya Pratama              |  21.11.4058 |
-|  Ray Bagus Al Arief                 |  21.11.4093 |
-|  Maulana Izzra                      |  21.11.4076 |
+|  Andreas Adrian                     |  21.11.4075 |
+|  Rizki Gunawan                      |  21.11.4074 |
+|  Novelino Arya Pratama              |  21.11.4073 |
+|  Ray Bagus Al Arief                 |  21.11.4072 |
+|  Maulana Izzra                      |  21.11.4071 |
 
 
 <!-- Garis Lurus -->
