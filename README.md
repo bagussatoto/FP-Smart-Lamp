@@ -54,3 +54,12 @@ https://user-images.githubusercontent.com/87259393/179644510-884836bc-0596-488c-
 
 [FINAL PROJECT KOMUNIKASI DATA KELOMPOK 5.pdf](https://github.com/bagussatoto/Komunikasi-Data-Smart-Lamp/files/9136747/FINAL.PROJECT.KOMUNIKASI.DATA.KELOMPOK.5.pdf)
 
+
+
+## Kritik Dan Saran 
+Anda bisa kirim Email :
+
+| **Email**                           |
+|-------------------------------------|
+| bagusbudi1308@gmail.com             |
+| bagusbudi1308@students.amikom.ac.id |
