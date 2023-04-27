@@ -26,7 +26,7 @@
 | **Nama**                            | **NIM**     | 
 |-------------------------------------|-------------|
 |  [Kalwabed Rizki](https://github.com/kalwabed) |  21.11.4078 | 
-|  Rastra Ardiansyah Pora             |  21.11.4077 |
+|  [Rastra Ardiansyah Pora](https://github.com/rastra21) |  21.11.4077 |
 |  [Bagus Budi Satoto](https://github.com/bagussatoto)   |  21.11.4076 |
 |  Andreas Adrian                     |  21.11.4075 |
 |  Rizki Gunawan                      |  21.11.4074 |
