@@ -7,7 +7,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-<a href="https://ibb.co/vvcBXf6"><img src="https://i.ibb.co/1J0nzBt/komdat-5.png" alt="komdat-5" ></a>
+<!-- Gambar -->
+<p align="center">
+  <img width="600" src="https://i.ibb.co/1J0nzBt/komdat-5.png" />  
+  </p>
+
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
